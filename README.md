@@ -11,5 +11,5 @@
 <a href="https://discord.gg/devkowboj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devkowboj" height="30" width="40" /></a>
 </p>
 <p align="center">
-  <img width="400" src="https://cdn.discordapp.com/attachments/664485483190943753/1183107917130518659/lolnigaugay.jpg?ex=6587221c&is=6574ad1c&hm=4c76932872f23c9976b01d3e71cb9cd7a7e0bf3bc4d47e19e85a804c68f49b53&" />
+  <img width="350" src="https://cdn.discordapp.com/attachments/664485483190943753/1183107917130518659/lolnigaugay.jpg?ex=6587221c&is=6574ad1c&hm=4c76932872f23c9976b01d3e71cb9cd7a7e0bf3bc4d47e19e85a804c68f49b53&" />
 </p>
