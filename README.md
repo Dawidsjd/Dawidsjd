@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DEV</h1>
-<h3 align="center">Learning Programmer🗿</h3>
+<h3 align="center">Learning Programmer 🗿</h3>
+<h1></h1>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
